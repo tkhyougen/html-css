@@ -1,0 +1,25 @@
+.contact tr{
+  height:7rem;
+}
+
+.contact th{
+  width:150px;
+  text-align:right;
+}
+
+.contact td{
+  width:480px;
+  padding-left:1rem;
+}
+.submit_button{
+  color:white;
+  background-color: green;
+  font-size:20px;
+
+}
+.submit_button:hover{
+  opacity:0.5;
+}
+.contact tr:last-child td{
+  text-align:center;
+}
